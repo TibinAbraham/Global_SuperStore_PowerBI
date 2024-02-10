@@ -41,12 +41,6 @@ The Global Super Store PowerBI Dashboard provides a comprehensive overview of sa
   ![Screenshot 2024-02-10 094430](https://github.com/TibinAbraham/Global_SuperStore_PowerBI/assets/64525719/875c3084-d2b5-42fd-8931-9d4f6451117b)
 
 
-## Getting Started
-1. Clone the repository to your local machine.
-2. Open the PowerBI file using PowerBI Desktop.
-3. Explore the data using the provided slicers and navigate through the insightful pages.
-4. Gain valuable business insights and make data-driven decisions based on the visualizations.
-
 Feel free to contribute or customize the dashboard according to your specific business needs. Happy analyzing!
 
 **Note:** Make sure to have PowerBI Desktop installed to effectively utilize this dashboard.
